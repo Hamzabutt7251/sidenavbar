@@ -1,0 +1,28 @@
+
+<body>
+
+ <div class="ma-ian">
+ 
+ </div>
+ <div class="second">
+  <ul id="slide-out" class="sidenav">
+    <li><div class="user-view">
+      <div class="background">
+        <img src="https://media-public.canva.com/MADGv98QW6U/6/screen_2x.jpg"/>
+      </div>
+      <a href="#user"><img class="circle" src="./images/hamza 01.jpg"/></a>
+      <a href="#name"><span class="white-text name">Hamza Imran</span></a>
+      <a href="#email"><span class="white-text email">hamzabutt7251@gmail.com</span></a>
+    </div></li>
+    <li><a href="#!"><i class="small material-icons">home</i>Home</a></li>
+    <li><a href="#!"><i class="material-icons">code</i>Blog</a></li>
+    <li><a href="#!"><i class="material-icons">archive</i>Archive</a></li>
+    <li><a href="#!"><i class="material-icons">present_to_all</i>Projects</a></li>    
+    <li><a href="#!"><i class="material-icons">home</i>About</a></li>    
+    <!--<li><div class="divider"></div></li>--> 
+    <!---<li><a class="subheader">Subheader</a></li>-->
+    <li><a href="#!"><i class="material-icons">contacts</i>Contact</a></li>    
+ 
+  </ul>
+  <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+</div>
